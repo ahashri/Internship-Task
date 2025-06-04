@@ -49,3 +49,23 @@ This project analyzes crime trends using the **Crime Data from 2020 to Present**
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+
+   
+
+## 2️⃣ Sales Dashboard – Power BI Visualization
+
+- Created an interactive **Sales Dashboard** using **Power BI**.
+- **Dataset**: [Sales Dashboard Practice File](https://www.kaggle.com/datasets/ahmedeltanani/salesdashboardpracticefile) from Kaggle.
+- **File Used**: `sales.csv`
+
+### 📊 Key Features:
+- Visualized **Total Sales**, **Profit**, and **Quantity Sold** over time.
+- Drill-down analysis by:
+  - 📍 **Region**
+  - 🛍️ **Category**
+  - 👥 **Customer Segment**
+- Implemented **slicers and filters** for dynamic data exploration.
+- Designed with a **clean and professional layout** for effective business insights.
+
+> ✅ Ideal for monitoring sales performance, identifying trends, and making data-driven decisions.
+     
