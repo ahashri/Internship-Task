@@ -56,7 +56,7 @@ This project analyzes crime trends using the **Crime Data from 2020 to Present**
 
 - Created an interactive **Sales Dashboard** using **Power BI**.
 - **Dataset**: [Sales Dashboard Practice File](https://www.kaggle.com/datasets/ahmedeltanani/salesdashboardpracticefile) from Kaggle.
-- **File Used**: `sales.csv`
+- **File Used**: Sales-Dashboard-practice-file.xlsx
 
 ### 📊 Key Features:
 - Visualized **Total Sales**, **Profit**, and **Quantity Sold** over time.
