@@ -1,4 +1,4 @@
-# 1️⃣ Crime Data Analysis
+# 1️⃣ Big Data Analysis
 
 This project analyzes crime trends using the **Crime Data from 2020 to Present** dataset, sourced from the Los Angeles Police Department (LAPD). The objective is to uncover patterns in crime incidents, identify the most affected areas and age groups, and visualize key insights for better understanding.
 
