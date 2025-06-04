@@ -49,74 +49,9 @@ This project analyzes crime trends using the **Crime Data from 2020 to Present**
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-# 2️⃣ Predictive Analysis using Machine Learning
-
-This project focuses on applying predictive analytics using machine learning models. It includes exploratory data analysis, preprocessing, model training, evaluation, and prediction steps using Python.
-
-## 📌 Project Overview
-
-- **Objective**: Perform predictive analysis on a structured dataset to identify trends or predict outcomes.
-- **Steps Covered**:
-  - Data Cleaning & Preprocessing
-  - Exploratory Data Analysis (EDA)
-  - Feature Engineering
-  - Model Building (Linear Regression / Logistic Regression / Decision Trees, etc.)
-  - Evaluation Metrics (Accuracy, Confusion Matrix, etc.)
-
-## 🧰 Tools & Libraries Used
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Seaborn
-- Matplotlib
-
-## 📁 Directory Structure
 
 
-   
 
-## 3️⃣ Sales Dashboard – Power BI Visualization
-
-- Created an interactive **Sales Dashboard** using **Power BI**.
-- **Dataset**: [Sales Dashboard Practice File](https://www.kaggle.com/datasets/ahmedeltanani/salesdashboardpracticefile) from Kaggle.
-- **File Used**: Sales-Dashboard-practice-file.xlsx
-
-### 📊 Key Features:
-- Visualized **Total Sales**, **Profit**, and **Quantity Sold** over time.
-- Drill-down analysis by:
-  - 📍 **Region**
-  - 🛍️ **Category**
-  - 👥 **Customer Segment**
-- Implemented **slicers and filters** for dynamic data exploration.
-- Designed with a **clean and professional layout** for effective business insights.
-
-> ✅ Ideal for monitoring sales performance, identifying trends, and making data-driven decisions.
-
-> # 4️⃣ Sentiment Analysis using NLP and Machine Learning
-
-This project involves performing sentiment analysis on text data using Natural Language Processing (NLP) techniques. It includes data preprocessing, feature extraction using TF-IDF, and model training with Logistic Regression to classify sentiments as **positive** or **negative**.
-
-## 🔍 Project Overview
-
-- **Objective**: Classify sentiments from text data.
-- **Techniques Used**:
-  - Text cleaning and preprocessing
-  - Stopword removal
-  - TF-IDF vectorization
-  - Logistic Regression classifier
-- **Dataset**: Custom dataset with labeled sentiments (can be replaced with any CSV dataset containing text and sentiment columns).
-
-## 🛠️ Technologies Used
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- NLTK
-- Matplotlib & Seaborn (for visualization)
-- Jupyter Notebook
 
 
 
